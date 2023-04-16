@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer Kocpinar</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently looking for a job in **Software Engineering**
 
 - 📫 Reach me on **LinkedIN**
 
